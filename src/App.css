@@ -2,3 +2,7 @@ body {
   font-family: "Langar";
   padding: 20px 60px;
 }
+a{
+  text-decoration: none;
+  color: black;
+}
